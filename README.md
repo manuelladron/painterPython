@@ -1,7 +1,6 @@
 # painterPython
 Python implementation of Aaron Hertzmann's Painterly Rendering with Curved Brush Strokes of Multiple Sizes (SIGGRAPH 
-98). Official Java implementation can be found at [Aaron Hertzmann's github](https://github.
-com/hertzmann/painterJava). Thanks to Aaron for feedback and original code. 
+98). Official Java implementation can be found at [Aaron Hertzmann's github](https://github.com/hertzmann/painterJava). Thanks to Aaron for feedback and original code. 
 
 ### Link to the paper 
 > Aaron Hertzmann. Painterly Rendering with Curved Brush Strokes of Multiple Sizes. Proc. SIGGRAPH 1998. [Project Page](https://mrl.cs.nyu.edu/publications/painterly98/), [ACM paper link](https://dl.acm.org/doi/10.1145/280814.280951)
